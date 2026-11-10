@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "scientific",
+      "name": "科学计算",
+      "root": "D:\\plan\\claude-scientific-skills\\skills",
+      "note": "165 个，生命科学/化学/物理/统计/ML"
+    },
+    {
+      "id": "nature",
+      "name": "Nature 系",
+      "root": "D:\\plan\\nature-skills\\skills",
+      "note": "20 个，写作/绘图/文献"
+    },
+    {
+      "id": "anthropic",
+      "name": "Anthropic 官方",
+      "root": "D:\\plan\\anthropic-skills\\skills",
+      "note": "20 个，docx/pdf/pptx/xlsx/设计"
+    },
+    {
+      "id": "superpowers",
+      "name": "Superpowers",
+      "root": "D:\\plan\\superpowers\\skills",
+      "note": "14 个，方法论（与 kit 部分重叠）"
+    },
+    {
+      "id": "dailypaper",
+      "name": "每日论文",
+      "root": "D:\\plan\\dailypaper-skills\\skills",
+      "note": "7 个技能 + _shared 资源目录（非技能）"
+    },
+    {
+      "id": "litreview",
+      "name": "文献综述",
+      "root": "D:\\plan\\literature-review-skill\\skills",
+      "note": "5 个，中文文献全链路"
+    },
+    {
+      "id": "academic",
+      "name": "学术研究",
+      "root": "D:\\plan\\academic-skills",
+      "note": "5 个，论文/精读/谱系（一级子目录即技能）"
+    }
+  ]
+}
